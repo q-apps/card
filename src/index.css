@@ -12,3 +12,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.demo-card-wide.mdl-card {
+  width: 200px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.demo-card-wide > .mdl-card__title1 {
+  color: #fff;
+  height: 200px;
+  width: 200px;
+  background: url('https://cdn0.iconfinder.com/data/icons/social-network-9/50/34-512.png') center / cover;
+}
+
+.demo-card-wide > .mdl-card__title2 {
+  color: #fff;
+  height: 200px;
+  width: 200px;
+  background: url('https://cdn0.iconfinder.com/data/icons/social-network-9/50/15-512.png') center / cover;
+}
+
+.demo-card-wide > .mdl-card__title3 {
+  color: #fff;
+  height: 200px;
+  width: 200px;
+  background: url('https://cdn0.iconfinder.com/data/icons/social-network-9/50/5-128.png') center / cover;
+}
+.demo-card-wide > .mdl-card__title4 {
+  color: #fff;
+  height: 200px;
+  width: 200px;
+  background: url('https://cdn0.iconfinder.com/data/icons/social-network-9/50/2-512.png') center / cover;
+}
+
+.demo-card-wide .mdl-card__title-text {
+  color: #000;
+}
